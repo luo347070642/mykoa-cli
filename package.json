@@ -1,6 +1,6 @@
 {
-  "name": "my-cli",
-  "version": "0.2.3",
+  "name": "mykoa-cli",
+  "version": "0.0.1",
   "description": "Auto generate project template",
   "main": "index.js",
   "bin": {
